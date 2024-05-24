@@ -9,4 +9,5 @@ Este proyecto tiene el fin de que el usuario ingrese una letra y le de eso en c√
 6. Luego hice checkout de taller y volvi a main 
 7. Hice las historias de usuario
 8. Hice la docuemntacion
+9. A√±adi el .gitignore
 
